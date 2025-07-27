@@ -3,7 +3,7 @@
 <h3>This repository contains a smart academic guidance tool made for Pak Angels Generative AI Hackathon</h3>
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-[![GitHub forks](https://img.shields.io/github/forks/QaisarAbbas2024/Python-for-Absolute-Beginners.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/QaisarAbbas2024/Python-for-Absolute-Beginners/network/)
+[![GitHub forks](https://img.shields.io/github/forks/QaisarAbbas2024/Edusphere.svg?style=social&label=Fork&maxAge=2592000)](https://github.com/QaisarAbbas2024/Edusphere)
 [![PyPI pyversions](https://img.shields.io/pypi/pyversions/ansicolortags.svg)](https://pypi.python.org/pypi/ansicolortags/)
 [![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
@@ -47,7 +47,19 @@ Students receive tailored recommendations for intermediate or university program
 | Version Control     | Git & GitHub |
 
 ---
+## 👥 Team Members & Roles
 
+| Name           | Roles & Responsibility                           |
+|----------------|-------------------------------------------|
+| 🎤 **[Khadija Tahir](https://www.linkedin.com/in/khadija-tahir-a1a8a2376)** | Team Lead & Presenter |
+| 💻 **[Qaisar Abbas](https://www.linkedin.com/in/qaisar-abbas2024)** | Lead Developer – App Design, Demo & Deployment |
+| 👨‍💻 **[Dr. Muhammad Iqbal]()** | Backend Developer – Logic & Functionality |
+| 👨‍💻 **[Fareed Ahmad](https://www.linkedin.com/in/fareed-ahmad-mech)** | Full Stack Support – Code Integration |
+| 🎥 **[Muhammad Hafeez](https://www.linkedin.com/in/muhammad-hafeez-bbb987360)** | Media Production – Video Recording & Editing |
+| 📊 **[Arsalan Fayyaz](https://www.linkedin.com/in/arsalan-fayyaz-936324244)** | Visual Design – Presentation & Slide Creation |
+
+
+---
 ### 📩 Stay Connected
 
 Stay updated with new tools, projects, and resources!
