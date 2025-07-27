@@ -20,7 +20,7 @@ Students in Pakistan often struggle with subject selection and academic planning
 
 ---
 
-## 💡 2️⃣ Your Solution
+## 💡 2️⃣ Our Solution
 
 **Edusphere** is an intelligent educational advisor built with Generative AI logic and decision heuristics to help students choose the right academic track based on:
 
