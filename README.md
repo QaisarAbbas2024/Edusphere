@@ -58,6 +58,11 @@ Students receive tailored recommendations for intermediate or university program
 | 🎥 **[Muhammad Hafeez](https://www.linkedin.com/in/muhammad-hafeez-bbb987360)** | Media Production – Video Recording & Editing |
 | 📊 **[Arsalan Fayyaz](https://www.linkedin.com/in/arsalan-fayyaz-936324244)** | Visual Design – Presentation & Slide Creation |
 
+---
+## 🎥 Project Demo & Slides
+
+🎬 Demo Video: [Click this LINK](https://drive.google.com/file/d/1T2_zDYOsjj8Iff_t3Msb5TQg3m0foA0M/view?usp=sharing)  
+📊 Presentation Slides: [Click this LINK](https://docs.google.com/presentation/d/1zoygwMz-P1FOQNEmnFw3kwP-9fBJ6R4X/edit?usp=sharing&ouid=108437519518884307072&rtpof=true&sd=true)
 
 ---
 ### 📩 Stay Connected
